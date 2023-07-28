@@ -19,11 +19,10 @@ Live here - https://naina012.github.io/Gym-Fire/
 
 ## Screenshots
 
-![App Screenshot](./Screenshot%202023-07-28%20124619.png)
-![App Screenshot](./Screenshot%202023-07-28%20124659.png)
-![App Screenshot](./Screenshot%202023-07-28%20124736.png)
-![App Screenshot](./Screenshot%202023-07-28%20124810.png)
-
+![Home Page](Screenshot%202023-07-28%20124619.png)
+![Search Page](./Screenshot%202023-07-28%20124659.png)
+![Result Page](./Screenshot%202023-07-28%20124736.png)
+![Footer Page](./Screenshot%202023-07-28%20124810.png)
 
 
 ## Tech Stack

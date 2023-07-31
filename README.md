@@ -14,7 +14,7 @@ Gym-Fire is a stunning and responsive React project that brings the world of fit
 
 
 ## Demo
-Live here - https://naina012.github.io/Gym-Fire/
+Live here - https://naina012.github.io/Gym-site/
 
 ## Screenshots
 

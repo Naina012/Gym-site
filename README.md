@@ -5,7 +5,6 @@ Gym-Fire is a stunning and responsive React project that brings the world of fit
 
 ## Features
 
-- celsius to fahrenheit mode toggle
 - Live previews
 - Fullscreen mode
 - Cross platform
